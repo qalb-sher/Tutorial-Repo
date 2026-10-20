@@ -1,4 +1,4 @@
 # Tutorial-Repo
 This is my first repo.
 <br>
-Author: Qalb Sher
+Author: Qalb Sher khan
